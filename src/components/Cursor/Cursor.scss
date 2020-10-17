@@ -1,0 +1,12 @@
+.Cursor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ff2562;
+  pointer-events: none;
+  transition: 0.1s;
+  clip-path: circle(50px at var(--mouseX) var(--mouseY));
+  z-index: 1000;
+}

@@ -1,0 +1,29 @@
+@import "variables.scss";
+
+.HeaderOption {
+  text-transform: uppercase;
+  color: inherit;
+  font-family: inherit;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  padding: 0.5rem;
+  position: relative;
+  background-color: inherit;
+  cursor: pointer;
+  border: none;
+  background-image: linear-gradient(
+    135deg,
+    transparent 0%,
+    transparent 50%,
+    $color-white 50%
+  );
+  background-size: 300%;
+  transition: all 0.4s;
+
+  &:hover {
+    color: $color-black;
+    background-position: 100%;
+    transform: translateY(-0.5rem);
+  }
+}

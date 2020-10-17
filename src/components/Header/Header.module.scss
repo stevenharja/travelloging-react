@@ -1,0 +1,20 @@
+@import "variables.scss";
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem 0;
+  z-index: 99;
+  position: relative;
+
+  &__logo {
+    width: 4rem;
+    height: 4rem;
+    fill: $color-white;
+    margin-bottom: 1.5rem;
+  }
+
+  &__nav {
+  }
+}
