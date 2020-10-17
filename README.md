@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The link to the website is [here](https://stevenharja.github.io/travelloging-react/)
 
 ## Available Scripts
 
