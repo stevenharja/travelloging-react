@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/travelloging-react/static/css/main.ad84474d.chunk.css",
+    "main.js": "/travelloging-react/static/js/main.023e82cf.chunk.js",
+    "main.js.map": "/travelloging-react/static/js/main.023e82cf.chunk.js.map",
+    "runtime-main.js": "/travelloging-react/static/js/runtime-main.9b95e8d8.js",
+    "runtime-main.js.map": "/travelloging-react/static/js/runtime-main.9b95e8d8.js.map",
+    "static/js/2.e4aef61c.chunk.js": "/travelloging-react/static/js/2.e4aef61c.chunk.js",
+    "static/js/2.e4aef61c.chunk.js.map": "/travelloging-react/static/js/2.e4aef61c.chunk.js.map",
+    "index.html": "/travelloging-react/index.html",
+    "precache-manifest.149261eda81d92f23eae794766a8b16c.js": "/travelloging-react/precache-manifest.149261eda81d92f23eae794766a8b16c.js",
+    "service-worker.js": "/travelloging-react/service-worker.js",
+    "static/css/main.ad84474d.chunk.css.map": "/travelloging-react/static/css/main.ad84474d.chunk.css.map",
+    "static/js/2.e4aef61c.chunk.js.LICENSE.txt": "/travelloging-react/static/js/2.e4aef61c.chunk.js.LICENSE.txt",
+    "static/media/author_pic.jpg": "/travelloging-react/static/media/author_pic.334556a2.jpg",
+    "static/media/bg-img.jpg": "/travelloging-react/static/media/bg-img.1fdfda23.jpg",
+    "static/media/blog_post.jpg": "/travelloging-react/static/media/blog_post.8c35288a.jpg",
+    "static/media/blog_post2.jpg": "/travelloging-react/static/media/blog_post2.23b802d7.jpg",
+    "static/media/blog_post3.jpg": "/travelloging-react/static/media/blog_post3.343cfecf.jpg",
+    "static/media/camera-retro.svg": "/travelloging-react/static/media/camera-retro.623785a6.svg",
+    "static/media/person-bg.png": "/travelloging-react/static/media/person-bg.3670d21c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b95e8d8.js",
+    "static/js/2.e4aef61c.chunk.js",
+    "static/css/main.ad84474d.chunk.css",
+    "static/js/main.023e82cf.chunk.js"
+  ]
+}
